@@ -1,0 +1,40 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: white;
+    
+}
+
+header {
+    background-color: #0C2C53;
+    color: white;
+    text-transform: uppercase;
+    font-size: large;
+    text-align: center;
+} 
+
+a:hover{
+    color: red;
+}
+
+.navigation ul{
+    text-align: center;
+    background-color: grey;
+    opacity: inherit;
+    color:black;
+    
+}
+
+.navigation li {
+    font-weight: 100;
+    letter-spacing: 2px;
+    padding: 20px;
+    list-style-type: none;
+
+}
+
+.subtitle{
+    background-color:#0C2C53;
+    color: red;
+    font-weight: bold;
+}
+

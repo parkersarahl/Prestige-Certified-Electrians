@@ -10,7 +10,13 @@ header {
     text-transform: uppercase;
     font-size: large;
     text-align: center;
+    
 } 
+
+header image {
+    border: 10px solid red;
+    
+}
 
 a:hover{
     color: red;
